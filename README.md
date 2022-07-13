@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development .
 - 🌱 I’m currently learning JavaScript, Html ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me cassandra.umeh.233649@unn.edu.ng
+- 📫 How to reach me umehcassandra@gmail.com
 
 <!---
 cassie202/cassie202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
