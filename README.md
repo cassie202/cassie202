@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cassie202
 - 👀 I’m interested in frontend development .
-- 🌱 I’m currently learning JavaScript, Html ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript and React
+- 💞️ I’m looking to collaborate on open source projects, hackathons.
 - 📫 How to reach me umehcassandra@gmail.com
 
 <!---
