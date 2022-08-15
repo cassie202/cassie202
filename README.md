@@ -1,5 +1,5 @@
 Here's a quick summary about me:
-- 👋 Hi, I’m @cassie202
+- 👋 Hi, I’m Cassandra.
 - 💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
 - 🌱 I’m currently learning JavaScript and React.
 - 💞️ I’m looking to collaborate on open source projects, hackathons.
